@@ -9,7 +9,7 @@ Mainly because we haven't copyrighted the software/source yet and we will not be
 
 # Why OpenRecorder?
 
-There isn't much difference between ***OpenRecorder*** and any other screen recorder, except that it brings the best features it can give it's users and the un-limitation of customization.
+**OpenRecorder** is a little different from other screen recording programmes, except that it offers the best features it can offer its users, and unlimited customizability. Unlike other recorders, we also offer built-in apps that make it easy to communicate with your viewers. Apps we currently provide: OpenNote, OpenPaint, OpenBrowser. In the future, we plan on creating more built-in apps like a Video editor/Thumbnail creator, etc...
 
 # Be a part of us.
 
