@@ -11,7 +11,7 @@ Mainly because we haven't copyrighted the software/source yet and we will not be
 
 **OpenRecorder** is a little different from other screen recording programmes, except that it offers the best features it can offer its users, and unlimited customizability. Unlike other recorders, we also offer built-in apps that make it easy to communicate with your viewers. Apps we currently provide: OpenNote, OpenPaint, OpenBrowser. In the future, we plan on creating more built-in apps like a Video editor/Thumbnail creator, etc...
 
-# Be a part of us.
+# Become a part of us.
 
 <a href="https://discord.gg/XVsKtnKubs" alt="Discord Server"><img src="https://img.shields.io/badge/Join%20our-Discord%20Server-informational"></a>\
 We may be hiring very soon so catch up before your chance is gone.
