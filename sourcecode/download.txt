@@ -1,6 +1,0 @@
-Please head over to "https://mega.nz/file/hBhEFaIZ#Dk5FMhCLyWkCwumJAbwMZtLpFi2lunkxrxK6wIGLPEo" to download the FULL OpenRecorder Studio source code. It's currently unavailable in GitHub as the file size is incredibly large (Over 1GB).
-
-The source code in this directory is only for the code, it does not have the bin or solution/csproj.
--- AGREEMENT --
-
-By reading this and/or using the OpenRecorder Studio Software, you now agree & consent to our terms and you hereby will not break any terms.
