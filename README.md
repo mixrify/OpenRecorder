@@ -1,7 +1,6 @@
 # What's OpenRecorder?
 OpenRecorder is an open-sourced, free brand new HD screen recorder for creators mainly on YouTube or other video platforms. It supports games like Minecraft, ROBLOX and more.\
-<a href="https://discord.gg/XVsKtnKubs" alt="OpenRecorder"><img src="https://img.shields.io/badge/Developed%20by-Pronner-blueviolet" /></a> <a href="https://discord.gg/XVsKtnKubs" alt="Pronner Studios"><img src="https://img.shields.io/badge/Published%20by-Pronner%20Studios-blue" /></a>
-<a href="https://discord.gg/XVsKtnKubs" alt="Version"><img src="https://img.shields.io/badge/Version-FREE-success/"></a> <a href="https://discord.gg/XVsKtnKubs" alt="Stability"><img src="https://img.shields.io/badge/stability-78%25-yellow"></a>
+<a href="https://github.com/Pronner/OpenRecorder/Releases" alt="OpenRecorder"><img src="https://img.shields.io/github/downloads/Pronner/OpenRecorder/total?color=40" /></a>
 
 # Is it open-sourced?
 Yes, OpenRecorder is currently open-source. If you'd like to download it or investigate it, click [here](https://github.com/Pronner/OpenRecorder/tree/main/sourcecode/src_ORS).
