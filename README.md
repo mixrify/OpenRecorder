@@ -19,6 +19,6 @@ Yes, OpenRecorder is currently open-source. If you'd like to download it or inve
 ## Become a part of us.
 
 <a href="https://discord.io/recorder" alt="OpenRecorder"><img src="https://img.shields.io/discord/897881158384234557?color=white&label=Join%20Server&logo=discord&logoColor=white" /></a>\
-We may be hiring very soon so catch up before your chance is gone.
+We may be hiring staff members very soon so catch up before your chance is gone.
 
 <a href="https://github.com/Pronner/OpenRecorder/source/src_ORS" alt="OpenRecorder"><img src="https://media.discordapp.net/attachments/916226674071339010/930350708803371028/unknown.png?width=502&height=408" /></a>
