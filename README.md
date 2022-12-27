@@ -5,7 +5,7 @@
 ## What's OpenRecorder?
 OpenRecorder is open-source, smooth and intuitive. It's very customizable and it has many features that no other recorders have. We support all video platforms and all Windows versions. OpenRecorder can be used on **other Operating Systems as well**, but you will need a software that runs Windows Apps. ex: **Wine for Linux**.
 
-<a href="https://github.com/Pronner/OpenRecorder/releases" alt="OpenRecorder"><img src="https://media.discordapp.net/attachments/825035749849038869/1007928764635815966/unknown.png?width=996&height=473" /></a>
+![image](https://user-images.githubusercontent.com/84229419/209706706-0922d45c-8607-4a9c-82ed-5af44cf71337.png)
 
 ## Is it open-source?
 Yes, OpenRecorder is currently open-source. If you'd like to download it or investigate it's code, click [here](https://github.com/Pronner/OpenRecorder/tree/main/sourcecode/src_ORS) (THIS SOURCE CODE IS THE ONE BEFORE THE REMAKE, REMAKE WILL NOT BE OPEN SOURCE).
