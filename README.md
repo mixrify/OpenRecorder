@@ -3,7 +3,7 @@
 <a href="https://github.com/Pronner/OpenRecorder/releases" alt="OpenRecorder"><img src="https://img.shields.io/github/downloads/Pronner/OpenRecorder/total?color=1&logo=github" /></a> <a href="https://discord.io/recorder" alt="OpenRecorder"><img src="https://img.shields.io/discord/897881158384234557?color=white&label=online&logo=discord&logoColor=white" /></a> <a href="https://twitter.com/@OpenRecorder" alt="OpenRecorder"><img src="https://img.shields.io/twitter/follow/OpenRecorder?style=social" /></a> <a href="" alt="OpenRecorder"><img src="https://img.shields.io/badge/platform-win--32%20%7C%20win--64-lightgrey" /></a> 
 
 ## What's OpenRecorder?
-OpenRecorder is open-source, smooth and intuitive. It's very customizable and it has many features that no other recorders have. We support all video platforms and all Windows versions. OpenRecorder can be used on **other Operating Systems as well**, but you will need a software that runs Windows Apps. ex: **Wine for Linux**.
+OpenRecorder is an open-source, smooth and intuitive screen recorder. It's very customizable and it has many features that no other recorders have. We support all video platforms and all Windows versions. OpenRecorder can be used on **other Operating Systems as well**, but you will need a software that runs Windows Apps. ex: **Wine for Linux**.
 
 ![image](https://user-images.githubusercontent.com/84229419/209706706-0922d45c-8607-4a9c-82ed-5af44cf71337.png)
 
